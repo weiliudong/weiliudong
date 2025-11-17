@@ -8,6 +8,6 @@
 
 ## 🎨 Others platform
 
-[juejin post | 掘金技术文章](https://juejin.cn/post/7572697146287865906)
+[juejin post | 掘金技术文章](https://juejin.cn/user/1915819848900044)
 
 [个人主页](https://wld.taikule.cn)
