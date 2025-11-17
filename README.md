@@ -1,7 +1,9 @@
 # 👋 Hello! Here is Wei Liu Dong.
 
 👨‍💻 I'm currently working on web front end development
+
 🌱 A little prince who seems to love technology
+
 🤝 Give my warehouse a star, we are brothers.
 
 ## 🎨 Others platform
